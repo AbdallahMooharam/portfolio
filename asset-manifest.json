@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.53c14c05.chunk.css",
+    "main.js": "/portfolio/static/js/main.c99a4800.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.c99a4800.chunk.js.map",
+    "runtime~main.js": "/portfolio/static/js/runtime~main.f308c8e6.js",
+    "runtime~main.js.map": "/portfolio/static/js/runtime~main.f308c8e6.js.map",
+    "static/js/2.29f37ea3.chunk.js": "/portfolio/static/js/2.29f37ea3.chunk.js",
+    "static/js/2.29f37ea3.chunk.js.map": "/portfolio/static/js/2.29f37ea3.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.1766bb05a17defa89d34bc7e91c2278c.js": "/portfolio/precache-manifest.1766bb05a17defa89d34bc7e91c2278c.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.53c14c05.chunk.css.map": "/portfolio/static/css/main.53c14c05.chunk.css.map",
+    "static/media/CV Abdo Moharam.pdf": "/portfolio/static/media/CV Abdo Moharam.da480456.pdf",
+    "static/media/Education.png": "/portfolio/static/media/Education.22c839a4.png",
+    "static/media/Games.png": "/portfolio/static/media/Games.b5892044.png",
+    "static/media/Screenshot_1.png": "/portfolio/static/media/Screenshot_1.c99e8f40.png",
+    "static/media/Screenshot_2.png": "/portfolio/static/media/Screenshot_2.44ee6fed.png",
+    "static/media/Screenshot_3.png": "/portfolio/static/media/Screenshot_3.f5f6bcc4.png",
+    "static/media/Screenshot_4.png": "/portfolio/static/media/Screenshot_4.d25fb07c.png",
+    "static/media/Screenshot_5.png": "/portfolio/static/media/Screenshot_5.2ee0d13d.png",
+    "static/media/Screenshot_6.png": "/portfolio/static/media/Screenshot_6.5491644d.png",
+    "static/media/Task.jpg": "/portfolio/static/media/Task.bc49fb7f.jpg",
+    "static/media/Wooster.png": "/portfolio/static/media/Wooster.322b0b1a.png",
+    "static/media/portfolio3.jpg": "/portfolio/static/media/portfolio3.7e6550b5.jpg"
+  }
+}
